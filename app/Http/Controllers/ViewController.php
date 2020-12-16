@@ -97,8 +97,6 @@ class ViewController extends BaseController
             if($ddd == 6){
                 $found = 1;
             }
-            else{
-            }
         }
 
         if($found == 1){
